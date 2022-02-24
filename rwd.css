@@ -1,0 +1,27 @@
+@media screen and (max-width: 1248px) {
+    
+    .BgBox1 {
+        height:450px;
+        position: relative;
+    }
+
+    input {
+        width: 10cm;
+    }
+
+    textarea {
+        width: 10cm;
+    }
+
+    button {
+        font-size: 18px;
+        width: 6cm;
+    }
+
+ }
+
+@media screen and (max-width: 800px) {
+    button {
+        width: 4cm;
+    }
+}

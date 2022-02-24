@@ -1,0 +1,109 @@
+body {
+    margin: auto;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    padding: 4px;
+    height: 10%;
+    margin: 5px;
+    background-color: rgb(120, 141, 141);
+    text-align: center;
+ }
+
+ .bgBox1 {
+     padding: 4px;
+     background-color: white;
+     opacity: 0.5;
+     color:rgb(66, 66, 66);
+     height: 60%;
+     margin: 5%;
+     text-align: center;
+     font-size: 48px;
+     border: solid 4px rgb(168, 125, 132);
+     box-shadow: 2px 2px 8px 8px rgb(18, 19, 26);
+ }
+
+ .container {
+    background-image: url('png/background.png');
+    width:auto;
+    margin: 5px;
+    padding: 4px;
+    height:85%;
+  }
+
+.icons {
+    box-shadow: 2px 2px 4px 4px rgb(18, 19, 26);
+    opacity: 1.0;
+}
+
+.icons:hover {
+    opacity: 0.7;
+    box-shadow: 2px 2px 4px 4px rgb(66, 66, 66);
+}
+
+button {
+    border: none;
+    background: none;
+    width:10cm;
+    font-size: 32px;
+    color:aliceblue;
+}
+
+button:hover {
+    background-color: rgb(97, 100, 100);
+    box-shadow: 2px 2px 4px 4px rgb(66, 66, 66);
+    color:rgb(120, 141, 141);
+    text-shadow: 2px 2px 4px rgb(60, 61, 61);
+}
+
+form {
+    font-size: 18px;
+}
+
+input {
+    width: 12cm;
+    margin: auto;
+    background-color: aquamarine;
+    border: solid 2px aqua;
+}
+
+input:active {
+    background-color: rgb(173, 172, 172);
+    border:solid 1px rgb(168, 125, 132);
+}
+
+input:hover {
+    background-color: rgb(173, 172, 172);
+    border:solid 1px rgb(168, 125, 132);
+    color: rgb(42, 42, 85);
+}
+
+textarea {
+    width: 13cm;
+    height: 4cm;
+    margin: auto;
+    background-color: aquamarine;
+    border:solid 2px aqua;
+    resize: none;
+}
+
+.sumbit {
+    width:2cm;
+    background-color: rgb(42, 42, 85);
+    color:rgb(233, 234, 235);
+    border:solid 1px black;
+    text-align: center;
+}
+
+.sumbit:hover {
+    background-color: white;
+    color: black;
+    border:solid 1px rgb(60, 61, 61);
+}
+
+#text_section {
+    margin: 15px;
+}
+
