@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, anime, psychology
 - 🌱 I’m currently learning programming with Front-End
 - 💞️ I’m looking for first job at IT/Game company. 
-- 📫 Mail: dominik.fedyk@spoko
+- 📫 Mail: dominik.fedyk@spoko.pl
 
 <!---
 Dlyam/Dlyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
